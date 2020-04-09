@@ -1,0 +1,522 @@
+.navbar .dropdown.show .dropdown-menu {
+  position: absolute !important;
+  background-color: white;
+}
+
+.container .row {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+
+.web3modal-modal-card {
+  display: table !important;
+}
+
+.navbar .navbar-wrapper {
+    margin-right: auto;
+}
+
+.chart-container {
+  height: 200px;
+}
+
+a {
+  z-index: 1;
+}
+
+.new-poll {
+  margin-top: -3.5em;
+}
+
+.new-poll .card {
+  padding-left: 22.5px;
+  padding-right: 22.5px;
+  padding-top: 7.5px;
+}
+
+.new-poll .card-header .card-category {
+  color: white;
+}
+
+.new-poll-profile {
+  width: 50px;
+  height: 50px;
+  border-radius: 40px;
+}
+
+.poll-profile-hyperlink {
+  width: 17.5%;
+  float: left;
+}
+
+.create-poll-inputs {
+  display: table;
+  width: 82.5%;
+  float: right;
+}
+
+#popover {
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  border: none;
+  cursor:pointer;
+  overflow: hidden;
+  outline:none;
+  padding: 0;
+  margin: 0;
+}
+
+.popover {
+  width: 125px;
+  top: 5px !important;
+}
+
+.brightid-logo {
+  margin-top: 6.75px;
+  height: 20px;
+  width: 20px;
+}
+
+.modal-content .create-poll-question,
+.modal-content .create-poll-description {
+  width: 100%;
+}
+
+.create-poll-question, .create-poll-description  {
+  border: 2px solid #2B3553;
+  box-sizing: border-box;
+  background: rgba(256, 256 , 256, 0.025);
+  border-radius: 6px;
+  padding: .5em;
+  font-size: 17.5px;
+  text-align: left;
+  float: right;
+  display: table-cell;
+  width: 100%;
+}
+
+.create-poll-description {
+  margin-top: 10px;
+  height: 3.75em;
+}
+
+.dropdown-item {
+  color: #2B3553 !important;
+  font-weight: 500 !important;
+}
+
+.modal-content .btn-secondary {
+  background: rgba(0,0,0,0.25);
+  margin-right: 12.5px !important;
+  margin-left: auto !important;
+}
+
+.btn-secondary:hover, .btn-secondary:active, .btn-secondary:hover,
+.btn-secondary:active:hover {
+  background: rgba(0,0,0,0.5) !important;
+}
+
+.button-poll {
+  border-radius: 25px;
+  padding: 10px 30px;
+  font-size: 14px;
+  margin-bottom: 2.5px;
+  margin-top: 17.5px;
+  float: right;
+}
+
+.navbar-nav li a {
+  color: inherit;
+  font-weight: 500;
+}
+
+.nav-item .dropdown {
+  float: right;
+}
+
+.nav-link {
+  display: inline;
+  clear: both;
+  z-index: 10;
+}
+
+.dropdown-menu  {
+  left: 7.5px !important;
+  min-width: 2.5rem;
+}
+
+.dropdown-toggle  {
+  background: rgba(0,0,0,0) !important;
+  background-image: none !important;
+  width: 5px !important;
+  z-index: 5;
+}
+
+.dropdown .btn {
+  padding: 10px 22px 11px 0px !important;
+}
+
+.dropdown .btn:hover, .dropdown .show  .btn:hover,
+.dropdown .btn, .dropdown .show .btn {
+  background: rgba(0,0,0,0) !important;
+  background-image: none !important;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+
+a {
+  color: #017afc;
+  transition: 0.35s;
+}
+
+a .poll-description {
+  color: #525f7f;
+}
+
+i:hover {
+  color: #d048b6 !important;
+}
+
+input, textarea {
+  color: white;
+}
+
+input:focus, textarea:focus {
+  border-color: #DD2A95;
+  outline: 0;
+}
+
+input:hover, textarea:hover {
+  border-color: #DD2A95;
+  outline: 0;
+}
+
+.page404 {
+  font-size: 15px;
+  margin-top: 5%;
+}
+
+.page404 p {
+  color: #9A9A9A;
+}
+
+.page404 h2 {
+  margin-bottom: 12.5px;
+}
+
+.navbar {
+  background: #27293d;
+  box-shadow: 0 0 17.5px 0 rgba(0, 0, 0, 0.425);
+  left: inherit;
+  right: inherit;
+}
+
+.navbar-logo {
+  height: 50px;
+  padding-bottom: 2.5px;
+}
+
+.nav-item {
+  font-size: 17.5px;
+  margin-left: auto;
+}
+
+.navbar-nav li i  {
+  margin-left: 7.5px;
+  font-size: 15px;
+}
+
+.vote-options {
+  display: block;
+  clear: both;
+}
+
+.btn + .btn {
+  margin: 0;
+}
+
+.btn-simple {
+  border-color: #d048b6!important;
+  background-color: rgba(30, 30, 47, 0.25) !important;
+  box-shadow: 0 .5px 2px .5px rgba(0, 0, 0, 0.2);
+  color: #d048b6 !important;
+  border-radius: 20px;
+  border-width: 2px;
+  padding: 10px 25px;
+  margin: 15px auto;
+  width: 100%;
+  float: right;
+}
+
+.navbar-title {
+  text-transform: capitalize;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.icon-header {
+  font-size: 25px;
+  padding: 12.5px;
+  margin-right: 10px;
+}
+
+.container {
+  padding: 7.5em 0em;
+}
+
+.fixed-top .container {
+  padding: inherit;
+}
+
+.modal-input {
+  border: 2px solid #2B3553;
+  box-sizing: border-box;
+  background: rgba(256, 256 , 256, 0.025);
+  border-radius: 6px;
+  padding: 7.5px 25px;
+  margin: 20px 0px 20px 0px;
+  width: 100%;
+}
+
+.nav-profile, .nav-profile-alt {
+  width: 30px;
+  height: 30px;
+  border-radius: 20px;
+}
+
+.nav-profile, .nav-profile-alt {
+  margin-top: 5px !important;
+}
+
+.nav-profile-alt {
+  float: left;
+}
+
+.nav-link {
+  float: inherit;
+}
+
+ .card a:hover {
+  background: #2a2b40;
+}
+
+.card a {
+  position: static;
+}
+
+a a {
+  z-index: 5;
+}
+
+.nav-profile-alt .fa-user-circle {
+  font-size: 30px !important;
+  margin-left: 7.5px;
+}
+
+.nav-icon {
+  font-size: 1.25em !important;
+  padding-top: 2.5px;
+}
+
+.modal-body a {
+  font-weight: 500;
+}
+
+.btn-verify {
+  margin-left: auto !important;
+}
+
+.vote-selection {
+  float: left;
+  font-size: 16.75px;
+  letter-spacing: 0.075px;
+}
+
+.modal {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+  background: #27293d;
+  color: white;
+}
+
+.modal-content .modal-body {
+  line-height: normal;
+}
+
+.modal-body {
+  font-size: 20px;
+  font-weight: normal;
+  text-align: left;
+  color: #9A9A9A;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  align-self: center;
+}
+
+.eth-icon {
+  height: 25px;
+  margin-bottom: 2.5px;
+}
+
+.eth-icon-xl {
+  height: 27.5px;
+  margin-bottom: 3.75px;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.about {
+  font-size: 17.5px;
+  text-align: left;
+}
+
+.modal-title {
+  font-size: 25px;
+  color: white !important;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: normal;
+  padding-right: 12.5px;
+  font-weight: 300;
+  line-height: 25px;
+  letter-spacing: 0.10625px;
+  mix-blend-mode: normal;
+}
+
+.align-left {
+  text-align: left;
+  float: left;
+  margin-right: 100vw;
+  width: 100%;
+}
+
+.modal-content .modal-body p {
+  color: white;
+}
+
+.modal-content .modal-body a:hover {
+  color: #d048b6;;
+}
+
+/* General RWD */
+
+@media screen and (max-width: 1200px) {
+
+  .profile-traits {
+    white-space: normal !important;
+  }
+
+  .profile-traits li:last-of-type {
+    padding-left: 5% !important;
+ }
+
+}
+
+/* Composable window */
+
+@media screen and (min-width: 375px) and (max-width: 991px) {
+
+  .navbar .navbar-nav .btn {
+     margin-left: 5px;
+  }
+
+  .card .card-body {
+    padding: 5px;
+  }
+
+  .brightid-logo {
+    margin-right: 12.5px;
+  }
+
+  .dropdown .btn {
+    padding: 8.75px 22px 11px 0px !important;
+  }
+
+  .poll-info {
+    width: 75% !important;
+  }
+
+  .dropdown-menu  {
+    left: -62.5px !important;
+    min-width: 2.5rem;
+  }
+
+  .navbar {
+    padding: 0px !important;
+  }
+
+  .nav .nav-link {
+      padding-right: 0.1rem !important;
+  }
+
+  .poll-result {
+    font-size: 12.5px;
+  }
+
+  .eth-icon {
+    margin-bottom: 1.5px !important;
+    height: 18.75px !important;
+  }
+
+  .poll-result {
+    font-size: 15px !important;
+  }
+
+}
+
+@media screen and (min-width: 550px) and (max-width: 600px) {
+
+  .create-poll-inputs {
+    width: 82.5%;
+  }
+
+}
+
+@media screen and (min-width: 550px) and (max-width: 975px) {
+
+  .vote-body .chart-container {
+    width: calc(100% - 5.5em) !important;
+    transform: translateY(-119.75%) !important;
+    height: 132.25px !important;
+  }
+
+
+  .profile-address {
+    font-size: 15.25px !important;
+  }
+
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+  .create-poll-inputs {
+    width: 77.5%;
+  }
+
+}
+
+
+/* iPad Pro */
+
+@media screen and (width: 1024px) and (height: 1366px) {
+
+  .profile-blockie {
+    width: 75px !important;
+    height: 75px !important;
+  }
+
+  .profile-address{
+    width: 40vw;
+    margin-bottom: 5px;
+    padding-left: 15px;
+    font-size: 22.5px !important;
+  }
+
+}
